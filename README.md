@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Owner off [Butthx library](https://github.com/butthx/butthx-library)!
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=butthx)](https://github.com/butthx)
+
+
 <!--
 **butthx/butthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
