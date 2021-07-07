@@ -11,7 +11,7 @@ Try my library/Framework :
 
 
 - 🔭 I’m currently working on project [`tgsnake`](https://tgsnake.js.org) and [`Duckbot`](https://duckbot.now.sh)
-- 🌱 I’m currently learning `typescript`
+- 🌱 I’m currently learning `typescript`,`nextjs`,`tailwindcss`
 
 <!--
 
