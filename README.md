@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [tgsnake](tgsnake.js.org)
 
-- 🌱 I’m currently learning **Redis,Dart**
+- 🌱 I’m currently learning **Redis**
 
 - 💬 Ask me about **telegram bot,nodejs,tgsnake, anything if i can answer**
 
-- 📫 How to found me **https://t.me/butthxdiscussion**
+- 📫 How to found me **https://t.me/butthxdiscuss**
 
 - ⚡ Fun fact **I'm just a student sitting in senior high school**
 
