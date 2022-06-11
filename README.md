@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [tgsnake](tgsnake.js.org)
 
-- 🌱 I’m currently learning **Rust basic**
+<!-- - 🌱 I’m currently learning **Rust basic** -->
 
 - 💬 Ask me about **telegram bot,nodejs,tgsnake, anything if i can answer**
 
