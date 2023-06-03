@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **telegram bot,nodejs,tgsnake, anything if i can answer**
 
-- 📫 How to found me **https://t.me/butthxdiscussion**
+- 📫 How to found me **https://t.me/butthx**
 
-- ⚡ Fun fact **I'm just a student sitting in senior high school (17 y.o)**
+- ⚡ Fun fact **I'm just a student sitting in senior high school (18 y.o)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
